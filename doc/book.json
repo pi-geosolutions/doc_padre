@@ -1,0 +1,25 @@
+{
+  "gitbook": "^3.2.3",
+  "variables": {
+  },
+  "links": {
+    "sidebar": {
+    }
+  },
+  "plugins": [
+    "image-captions",
+    "include",
+    "include-codeblock-patched"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "_CAPTION_"
+    },
+    "include-codeblock": {
+      "unindent": true
+    }
+  },
+  "styles": {
+    "website": "style.css"
+  }
+}
