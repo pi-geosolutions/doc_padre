@@ -1,0 +1,6 @@
+node_modules/
+build/
+doc/_book
+padre-documentation-*.zip
+.idea/
+doc_padre.iml
