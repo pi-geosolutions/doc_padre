@@ -1,10 +1,10 @@
-#Install
+# Install
 
 ```
 npm install
 ```
 
-#Run
+# Run
 
 ```
 npm start
@@ -12,7 +12,7 @@ npm start
 
 Serving book on http://localhost:4000
 
-#Deploy
+# Deploy
 
 Deploy documentation on gh-pages
 
